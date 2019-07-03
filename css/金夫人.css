@@ -1,0 +1,46 @@
+h2,h3,body,a,ul{
+	margin: 0;padding: 0;
+}
+li{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.top{
+	width: 1200px;
+	/*border: 1px solid red;*/
+	margin: 0 auto;
+	position: relative;
+}
+.top_1{
+	width: 152px;
+}
+.top_2{
+	float: right;
+	position: absolute;
+	top:15px;
+	right: 0px;
+	height: 25px;
+}
+.top_2 img{
+	margin: 0 auto;
+}
+.top_2 span{
+	/*line-height: 30px;*/
+	vertical-align: top;
+	/*text-align: center;*/
+	padding-left: 36px;
+}
+.top_3{
+	/*display: inline-block;*/
+	position: absolute;
+	bottom: 28px;
+	right: 0px;
+	
+}
+.top_3 ul li{
+	float: left;
+	padding-left: 54px;
+}
+
